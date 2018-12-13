@@ -1,0 +1,63 @@
+
+div{
+	background-color: white;
+	margin: 10px;
+	width: 25%
+}
+div{
+	border: solid 2px antiquewhite;
+	padding: 10px;
+}
+h1, h3, span{
+	font-weight: bold;
+	text-align: center;
+}
+h1{
+	font-size: 30pt;
+}
+
+
+div.header{
+	background-color: white;
+}
+div.header, div.instructions{
+	width: 50%;
+}
+/* Classes */
+.numberToMatch, .winsAndLosses{
+	float: left;
+	width: 25%;
+	height: 60px;
+}
+.userTotal{
+	width: 25%;
+	height: 60px;
+}
+.Crystals{
+	clear: both;
+}
+.Crystals{
+	height: 60px;
+	margin: 10px;
+}
+
+#Blue{
+    height: 50px;
+	width: 50px;
+	
+}
+#Green{
+    height: 50px;
+	width: 50px;
+
+}
+#Red{
+    height: 50px;
+	width: 50px;
+	
+}
+#Yellow{
+    height: 50px;
+	width: 50px;
+	
+}
