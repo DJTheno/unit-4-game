@@ -54,7 +54,7 @@ $(document).ready(function () {
         console.log("New userTotal= " + userTotal);
         $("#finalTotal").text(userTotal);
         if (userTotal == random) {
-            yay();
+            winner();
         }
         else if (userTotal > random) {
             loser();
@@ -66,7 +66,7 @@ $(document).ready(function () {
         console.log("New userTotal= " + userTotal);
         $("#finalTotal").text(userTotal);
         if (userTotal == random) {
-            yay();
+            winner();
         }
         else if (userTotal > random) {
             loser();
@@ -79,7 +79,7 @@ $(document).ready(function () {
         console.log("New userTotal= " + userTotal);
         $("#finalTotal").text(userTotal);
         if (userTotal == random) {
-            yay();
+            winner();
         }
         else if (userTotal > random) {
             loser();
@@ -91,7 +91,7 @@ $(document).ready(function () {
         console.log("New userTotal= " + userTotal);
         $("#finalTotal").text(userTotal);
         if (userTotal == random) {
-            yay();
+            winner();
         }
         else if (userTotal > random) {
             loser();
